@@ -1,0 +1,39 @@
+@import url("https://fonts.googleapis.com/css2? family = Roboto: ital, wght @ 1,700 & display = swap");
+.clear,
+.generator {
+    background-color: white;
+    color: black;
+    border: 2px solid #4CAF50;
+    transition-duration: 0.4s;
+    padding: 12px 28px;
+    font-size: 24px;
+}
+
+.clear:hover,
+.generator:hover {
+    background-color: #4CAF50;
+    color: white;
+    box-shadow: 0 12px 16px 0 rgba(0, 0, 0, 0.24), 0 17px 50px 0 rgba(0, 0, 0, 0.19);
+    font-family: Roboto;
+    font-weight: 700;
+}
+
+.main {
+    background-color: aqua;
+    border-radius: 0 0 20px 20px;
+}
+
+.main-header {
+    background-color: chartreuse;
+    font-size: 24px;
+    font-family: Roboto;
+    font-weight: 700;
+}
+
+h3 {
+    color: darkviolet;
+}
+
+h5 {
+    color: rgb(185, 24, 38);
+}
